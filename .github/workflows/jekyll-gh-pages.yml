@@ -1,7 +1,8 @@
 name: Deploy Jekyll with GitHub Pages dependencies preinstalled
 
 on:
-  # Runs on pushes targeting the default branch
+  workflow_dispatch:
+  # Runs on pushes targeting the experiment-design branch
   push:
     branches: ["experiment-redesign"]
 
