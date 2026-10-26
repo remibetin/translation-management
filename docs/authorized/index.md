@@ -9,7 +9,7 @@ title: Authorized translations of W3C standards and notes
 
 <nav class="l-cluster">
     <ul class="clean-list">
-        <li><a href="/translations/">View all translations (including volunteer translations)</a></li>
+        <li><a href="../">View all translations (including volunteer translations)</a></li>
     </ul>
 </nav>
 

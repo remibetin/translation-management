@@ -8,7 +8,7 @@ feed: https://www.w3.org/translations/feed/
 
 <p>This page lists authorized and volunteer translations of <a href="https://www.w3.org/TR/">current W3C standards and notes</a>. In case of disputes, the authoritative version of the specification is the original, English document.</p>
 
-<p><strong>Help make W3C standards available in your language:</strong> See <a href="/translations/contribute/">Contributing to W3C translations</a>.</p>
+<p><strong>Help make W3C standards available in your language:</strong> See <a href="contribute/">Contributing to W3C translations</a>.</p>
 
 <nav class="l-cluster">
     <ul class="clean-list">

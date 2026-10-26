@@ -10,7 +10,7 @@ description: List of translated W3C Recommendations (authorized and volunteer tr
 
 <nav class="l-cluster">
     <ul class="clean-list">
-        <li><a href="/translations/">View translations of current W3C standards and notes</a></li>
+        <li><a href="../">View translations of current W3C standards and notes</a></li>
     </ul>
 </nav>
 
