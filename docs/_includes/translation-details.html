@@ -19,7 +19,7 @@
       <dd>{{translator.name}}</dd>
       {% endfor %}
     </div>
-    {%- else -%}
+    {%- elsif translation.comments -%}
     <div>
       <dt>Translators</dt>
       <dd>{{ translation.comments | replace: "Translation authors:", "" | replace: "Translation author:", "" }}</dd>
